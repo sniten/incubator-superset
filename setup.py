@@ -84,7 +84,7 @@ setup(
         "flask-migrate",
         "flask-wtf",
         "geopy",
-        "gunicorn>=20.0.2, <20.1",
+        "gunicorn>=20.0.2, <23.1",
         "humanize",
         "isodate",
         "markdown>=3.0",
