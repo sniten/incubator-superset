@@ -116,7 +116,7 @@
     "dompurify": "^2.0.7",
     "emotion-theming": "^10.0.27",
     "geolib": "^2.0.24",
-    "immutable": "^3.8.2",
+    "immutable": "^3.8.3",
     "interweave": "^11.2.0",
     "jquery": "^3.4.1",
     "json-bigint": "^0.3.0",
