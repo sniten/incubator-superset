@@ -40,7 +40,7 @@ geographiclib==1.50       # via geopy
 geopy==1.21.0             # via apache-superset (setup.py)
 gunicorn==20.0.4          # via apache-superset (setup.py)
 humanize==0.5.1           # via apache-superset (setup.py)
-idna==2.9                 # via email-validator
+idna==3.15                 # via email-validator
 importlib-metadata==1.4.0  # via jsonschema, kombu
 isodate==0.6.0            # via apache-superset (setup.py)
 itsdangerous==1.1.0       # via flask
