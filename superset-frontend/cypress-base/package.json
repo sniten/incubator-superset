@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "shortid": "^2.2.15",
-    "@cypress/code-coverage": "^3.1.0"
+    "@cypress/code-coverage": "^3.14.7"
   },
   "devDependencies": {
     "cypress": "4.3.0",
